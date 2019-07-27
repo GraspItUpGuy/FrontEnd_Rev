@@ -1,0 +1,10 @@
+body{
+    background-image: url(../images/dog.jpg)  ;
+    background-size: cover;
+
+}
+h1{
+    color: black;
+    text-align: center;
+    margin-top: 350px;
+}

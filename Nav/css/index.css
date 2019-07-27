@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+    
+}
+ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    background-color: #333;
+    overflow: hidden;
+
+}
+li{
+    float: left;
+    
+}
+li a{
+    display: inline-block;
+    color: tomato;
+    text-align: center;
+    padding: 15px 18px;
+    text-decoration: none;
+    
+}
+li a:hover{
+    background-color : darkred;
+}
+.moveRight{
+    float: right;
+}
+.active{
+    background-color: crimson;
+}
