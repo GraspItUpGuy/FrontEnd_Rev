@@ -1,0 +1,15 @@
+body{
+    background-color: gray;
+    color: black;
+}
+.center{
+    text-align: center;
+    font: 2em;
+}
+.center h1{
+    background-color: rgba(50,50,50,0.5);
+}
+
+.center img {
+    margin-top: auto;
+}
