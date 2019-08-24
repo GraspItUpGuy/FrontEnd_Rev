@@ -1,0 +1,10 @@
+body{
+    margin-top: 5em;
+    background-color: red;
+}
+#the-basics{
+    font-size: 2em;
+}
+#the-basics input{
+margin: 10px;
+}
